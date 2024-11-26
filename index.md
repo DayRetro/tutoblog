@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Bienvenido al Blog de DayRetro
 ---
 
